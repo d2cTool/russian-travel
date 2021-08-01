@@ -21,3 +21,6 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+
+**Github pages**
+* [Click here](https://d2ctool.github.io/russian-travel/index.html)
