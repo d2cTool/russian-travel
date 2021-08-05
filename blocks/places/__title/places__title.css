@@ -1,20 +1,10 @@
 .places__title {
   margin: 0;
 
-  font-family: Inter;
-  font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
+  /* line-height: 76px; */
+  line-height: 106%;
 
   color: #FFFFFF;
-
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  
-  text-rendering: optimizeLegibility;
 }

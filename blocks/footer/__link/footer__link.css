@@ -1,10 +1,15 @@
 .footer__link {
     margin: 0;
+
     text-decoration: none;
-    font-family: Inter;
+
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 18px;
+    line-height: 112%;
     color: #FFFFFF;
+}
+
+.footer__link:hover {
+  opacity: .8;
 }
