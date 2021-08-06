@@ -12,3 +12,9 @@
     line-height: 46px;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .places__title {
+    margin-left: 16px;
+  }
+}
