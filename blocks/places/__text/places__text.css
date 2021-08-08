@@ -20,9 +20,18 @@
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 600px) {
   .places__text {
-    width: calc(100% - 2 * 16px);
-    margin: 0 16px;
+    max-width: 100%;
+    padding: 0 16px;
+    /* justify-self: stretch; */
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places__text {
+    /* width: 100%; */
+    padding: 0 16px;
+    justify-self: stretch;
   }
 }
